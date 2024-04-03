@@ -1,0 +1,12 @@
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\bin\Debug\SocialNetwork.exe.config
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\bin\Debug\SocialNetwork.exe
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\bin\Debug\SocialNetwork.pdb
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\bin\Debug\Dapper.dll
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\bin\Debug\System.Data.SQLite.dll
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\bin\Debug\Dapper.xml
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\bin\Debug\System.Data.SQLite.xml
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csproj.AssemblyReference.cache
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.csproj.CopyComplete
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.exe
+C:\Users\Макsos\source\repos\SocialNetwork\SocialNetwork\obj\Debug\SocialNetwork.pdb
